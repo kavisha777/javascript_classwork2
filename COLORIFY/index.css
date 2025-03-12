@@ -1,0 +1,12 @@
+#circle {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    background-color: gray;
+    margin-bottom: 20px;
+}
+
+.edit{
+    text-align: center;
+    justify-items: center;
+}
