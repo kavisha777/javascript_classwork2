@@ -19,7 +19,7 @@ function calculate(operation) {
         result = num1 * num2;
     } else if (operation === "divide") {
         if (num2 === 0) {
-            resultElement.textContent = "Cannot divide by zero!";
+            resultElement.textContent = "Cannot divide by JavaScript Classwork 02 zero!";
             resultElement.style.color = "red";
             return;
         }
